@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.COACH img{
+    /* border-bottom-left-radius: 34px;
+    border-bottom-right-radius:6px ; */
+    border-radius: 60%;
+    margin-left: 4px;
+    margin-right: 4px;
+  border: 1px solid rgb(217, 217, 226);
+}
